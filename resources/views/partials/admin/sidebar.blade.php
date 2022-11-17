@@ -4,7 +4,7 @@
       <!-- Brand -->
       <div class="sidenav-header  align-items-center">
         <a class="navbar-brand" href="{{ route("admin.home") }}">
-          <img src="{{ asset('/assets/img/logo.png') }}" width="80" alt="logo" style="border-radius: 40px;"> 
+          LOGO
         </a>
       </div>
       <div class="navbar-inner">
@@ -24,18 +24,6 @@
                 <a class="nav-link {{ request()->is('admin/students') || request()->is('admin/students/*') ? 'active' : '' }}" href="{{ route("admin.students.index") }}">
                 <i class="fas fa-users fa-lg "></i>
                   <span class="nav-link-text text-uppercase">Student List</span>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link {{ request()->is('admin/patient_list') || request()->is('admin/patient_list/*') ? 'active' : '' }}"  href="{{ route("admin.students.index") }}">
-                <i class="fas fa-users fa-lg "></i>
-                  <span class="nav-link-text text-uppercase">Trainor List</span>
-                </a>
-              </li>
-              <li class="nav-item">
-                <a class="nav-link {{ request()->is('admin/patient_list') || request()->is('admin/patient_list/*') ? 'active' : '' }}"  href="{{ route("admin.students.index") }}">
-                <i class="fas fa-users fa-lg "></i>
-                  <span class="nav-link-text text-uppercase">Animator List</span>
                 </a>
               </li>
               <li class="nav-item">

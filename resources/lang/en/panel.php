@@ -1,5 +1,5 @@
 <?php
 
 return [
-    'site_title' => 'YMC',
+    'site_title' => 'ATTENDANCE/EVENT',
 ];

@@ -25,46 +25,7 @@
   <div class="row">
     <div class="col-xl-12">
       <div class="row">
-            <div class="col-md-6">
-                <div class="card text-center" style="background-color: #667db6;">
-                    
-                        <div class="card-block">
-                            <h4 class="card-title text-white">TRAINORS</h4>
-                            <h2><i class="fas fa-users fa-3x text-white"></i></h2>
-                        </div>
-                        
-                        <div class="row m-2">
-                            <div class="col-12">
-                                <a href="/admin/patient_list">
-                                    <div class="card card-block text-info  border-left-0 border-top-o border-bottom-0 bg-white btn" style="border: 1px solid #111;">
-                                        <h3 style="color: #111;">2</h3>
-                                        <span class="small text-uppercase font-weight-bold" style="color: #111;">TRAINORS TOTAL</span>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="card text-center" style="background-color: #667db6;">
-                        
-                        <div class="card-block">
-                            <h4 class="card-title text-white">ANIMATORS</h4>
-                            <h2><i class="fas fa-users fa-3x text-white"></i></h2>
-                        </div>
-                        
-                        <div class="row m-2">
-                            <div class="col-12">
-                                <a href="/admin/doctors">
-                                    <div class="card card-block text-info  border-left-0 border-top-o border-bottom-0 bg-white btn" style="border: 1px solid #111;">
-                                        <h3 style="color: #111;">3</h3>
-                                        <span class="small text-uppercase font-weight-bold" style="color: #111;">ANIMATORS TOTAL</span>
-                                    </div>
-                                </a>
-                            </div>
-                        </div>
-                </div>
-            </div>
+            
             <div class="col-md-6 mx-auto">
                 <div class="card text-center" style="background-color: #667db6;">
                     <div class="card-block">

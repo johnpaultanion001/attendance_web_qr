@@ -2,7 +2,8 @@
       <div class="container">
         <div class="navbar-translate">
           <a href="/">
-            <img src="{{ asset('/assets/img/logo.png') }}" width="80" alt="logo" style="border-radius: 40px;"> 
+            <h2>LOGO</h2>
+            <!-- <img src="{{ asset('/assets/img/logo.png') }}" width="80" alt="logo" style="border-radius: 40px;">  -->
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" aria-expanded="false" aria-label="Toggle navigation">
             <span class="sr-only">Toggle navigation</span>
